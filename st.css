@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+#header{
+    height: 10%;
+    width: 100%;
+    background: black;
+
+   
+}
+#valkoinen{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+#h1{
+    border: 1px solid black;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.837);
+    text-align: center;
+}
+
+#side-bar-left{
+    height: 600px;
+    width: 20%;
+    background-color: grey;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    border: 1px;
+}
+
+#yksi{
+    padding-top: 20px;
+    line-height: 5;
+}
+#main{
+    float: none;
+    height: 600px;
+    line-height: 2; 
+    text-align: center;
+}
+
+#footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+    padding-top: 15px;
+
+}
+
